@@ -1,0 +1,16 @@
+{
+  "name": "ZERASHOP — Moda Contemporánea y Colecciones Editoriales",
+  "short_name": "ZERASHOP",
+  "description": "Moda contemporánea, sastrería arquitectónica y colecciones editoriales en fibras certificadas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F7",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
